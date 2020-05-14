@@ -1,0 +1,12 @@
+voila
+voila-material
+pandas
+ipywidgets
+seaborn
+plotly
+folium
+matplotlib
+numpy
+__future__
+plotly.express
+plotly.graph_objects
