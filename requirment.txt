@@ -1,5 +1,7 @@
 voila
 voila-material
+packaging
+ipywidgets==7.5.1
 pandas
 ipywidgets
 seaborn
